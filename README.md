@@ -1,13 +1,13 @@
 <div align="center">
 <h1 align="center">Hola, soy Raúl Arribas 👋</h1>
 </div>
+<br>
 
 ## Sobre mi
 - ⚡ Ingeniero eléctrico y elctrónico
 - 👷 Maker
 - 📖 Instructor de cursos
 <br>
-
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
