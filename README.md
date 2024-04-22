@@ -12,7 +12,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/ArribasRaul">
-  <img width="100" height="250" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArribasRaul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="300" height="250" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArribasRaul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="400" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArribasRaul&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
